@@ -1,0 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Oxygen&display=swap');
+
+body {
+    background-color: #2F4F4F;
+    font-family: 'Oxygen', sans-serif;
+    font-weight: 600;
+    color: #DDA0DD;
+    font-size: 50px;
+}
+
+p {
+    text-align: center;
+    margin-top: 20%;
+}
+
